@@ -4,5 +4,6 @@
 	- logowanie
 	- formularz dla resellera
 	- formularz wysyłania plików na serwer
+	- dodanie zabezpieczenia formularzy antyspamowego/antybotowego reCaptcha
 - Layout
 - Statystyki zuzycia dysku i lacza internetowego (mrtg/snmp)
