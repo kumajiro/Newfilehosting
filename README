@@ -1,8 +1,8 @@
 0,1v
-- Dzia³aj¹ce pod strony:
+- Dzia³ajace pod strony:
 	- rejestracja
 	- logowanie
 	- formularz dla resellera
 	- wysy³anie plików na serwer
 - Layout
-- Statystyki zu¿ycia dysku i ³¹cza internetowego (mrtg/snmp)
+- Statystyki zuzycia dysku i lacza internetowego (mrtg/snmp)
