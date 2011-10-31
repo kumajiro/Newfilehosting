@@ -7,8 +7,10 @@
 	- dodanie zabezpieczenia formularzy antyspamowego/antybotowego reCaptcha
 	- support , tickety
 - Layout
-- Statystyki zuzycia dysku i lacza internetowego (mrtg/snmp)
+- Statystyki zuzycia dysku i lacza internetowego (mrtg/snmp) (Ubuntu)
 
 
 0.15v
 -Zmieniony layout
+-News
+-Link checker
